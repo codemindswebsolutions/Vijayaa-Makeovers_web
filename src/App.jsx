@@ -8,9 +8,10 @@ import Contact from './pages/Contact';
 import Feedback from './pages/Feedback';
 import 'swiper/css';
 import 'swiper/css/pagination';
+
 const App = () => {
   return (
-    <Router>
+    <Router basename="/Vijayaa-Makeovers_web">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/services" element={<Services />} />
