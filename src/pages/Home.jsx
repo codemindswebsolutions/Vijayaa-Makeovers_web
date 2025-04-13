@@ -122,7 +122,7 @@ const Home = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <iframe
               className="w-full h-64 sm:h-80 rounded-xl"
-              src="https://www.youtube.com/embed/5pMJhOQOwlw"
+              src=""
               title="Video 1"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -130,7 +130,7 @@ const Home = () => {
             ></iframe>
             <iframe
               className="w-full h-64 sm:h-80 rounded-xl"
-              src="https://www.youtube.com/embed/OT7csoxzE1w"
+              src=""
               title="Video 2"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -138,7 +138,7 @@ const Home = () => {
             ></iframe>
             <iframe
               className="w-full h-64 sm:h-80 rounded-xl"
-              src="https://www.youtube.com/embed/7F9VtD_Cd4w"
+              src=""
               title="Video 3"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -157,7 +157,7 @@ const Home = () => {
           <div className="w-full h-80 rounded-lg overflow-hidden shadow-lg mb-4">
             <iframe
               className="w-full h-full"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d166259.01659882003!2d78.64749565874076!3d17.35005425579957!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93e3d7f42d1f%3A0xe9dbef7553cc28a2!2sTelangana%20Co-Operative%20Bank!5e0!3m2!1sen!2sin!4v1681387131450!5m2!1sen!2sin"
+              src=""
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
@@ -166,7 +166,7 @@ const Home = () => {
           
           {/* Get Directions Button */}
           <a
-            href="https://www.google.com/maps/dir/?api=1&destination=2nd+Floor,+Telangana+Co-Operative+Bank,+Bhramhanpally+'X'+Road,+Near+K.B+School,+Turkayamjal,+Hyderabad,+Telangana"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block mt-4 px-8 py-3 rounded-full text-lg font-semibold text-white bg-orange-500 hover:bg-orange-600 transition-all duration-300 shadow-lg"
