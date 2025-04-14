@@ -122,7 +122,7 @@ const Home = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <iframe
               className="w-full h-64 sm:h-80 rounded-xl"
-              src=""
+              src="https://youtu.be/shGoWvoCg-A?si=LRtuktzhpk1e2s61"
               title="Video 1"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -130,7 +130,7 @@ const Home = () => {
             ></iframe>
             <iframe
               className="w-full h-64 sm:h-80 rounded-xl"
-              src=""
+              src="https://youtu.be/shGoWvoCg-A?si=LRtuktzhpk1e2s61"
               title="Video 2"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -138,7 +138,7 @@ const Home = () => {
             ></iframe>
             <iframe
               className="w-full h-64 sm:h-80 rounded-xl"
-              src=""
+              src="https://youtu.be/shGoWvoCg-A?si=LRtuktzhpk1e2s61"
               title="Video 3"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
